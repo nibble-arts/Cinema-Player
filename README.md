@@ -23,7 +23,7 @@ The playlist is the central user interface for the player. It shows a scrollable
 
 These settings regard to the playlist behaviour.
 
-- **Projection zoom** - When the zoom of the projector is changed between 16:9 and 21:9 this checkbox ist set. When the zoom has to be altered, a popup window indicates the projectionist when to do so. The playback starts when the successful zoom change is confirmed. 
+- **Projection zoom** - When the zoom of the projector is changed between 16:9 and 21:9 to fill a wide screen, this checkbox ist set. When the zoom has to be altered, a popup window indicates the projectionist when to do so. The playback starts when the successful zoom change is confirmed. 
   When 16:9 images are displayed in the 21:9 zoom mode, the are scaled to fit the vertical resolution. 
  - **Autoplay delay** - The seconds to wait, when the next video is automatically started.
  - **Idle screen media** - an image or video loop to be shown instead of a black screen, when no video is played.
