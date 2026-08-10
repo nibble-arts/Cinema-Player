@@ -50,7 +50,7 @@ When a video is playing four times are shown:
 
 The playlist is started by pushing the **Play** button. The program status in the status bar changes from **OFF** (red) to **PROGRAM** (blue) and the **Play** button changes to **Resume** to indicate, that the program is running. The playlist is now processed.
 
-With **Resume** the current selected video in the list is started and the status changes to **PLAYING** (green). When a video has ended, the status changes to **PROGRAM** (blue) and the next entry in the list can be started with the **Resume** bottom.
+With **Resume** the current selected video in the list is started and the status changes to **PLAYING** (green). When a video has ended, the status changes to **PROGRAM** (blue) and the next entry in the list can be started with the **Resume** button.
 
 If the autoplay option is selected for an entry, the playback is automatically resumed with the next video. The autoplay delay in the timeline settings determine, how many seconds of black are shown, before the next video starts.
 
@@ -58,11 +58,11 @@ In the program mode, **Stop** only ends the playback of a video not the executio
 
 The playback position in the playlist can be changed by clicking on a video. However, the change must be confirmed before it takes effect to avoid confusion in the playback order. This option is disabled during video playback.
 
-A cursor on the left side of the list shows the current position in the program. If the current video is playing, the entry is highlighted in the colour of the program status.
+A cursor on the left side of the list shows the current position in the program. The entry is highlighted in the colour of the program status.
 
 Already played videos are greyed out.
 
-If a video needs attention, like a change in aspect ratio (if projection zoom is activated) or a different resolution or pixel aspect, a popup window reminds the projectionist of possible actions to be set. The affected data in the playlist entries are marked red. The program only can be resumed by confirming these informations.
+If a video needs attention, like a change in aspect ratio (if projection zoom is activated) or the resolution or pixel aspect differs from the previous video, a popup window reminds the projectionist of possible actions to be set. The affected data in the playlist entries are marked red. The program only can be resumed by confirming these informations.
 
 #### Media entries
 
