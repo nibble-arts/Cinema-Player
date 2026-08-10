@@ -50,7 +50,7 @@ When a video is playing four times are shown:
 
 The playlist is started by pushing the **Play** button. The program status in the status bar changes from **OFF** (red) to **PROGRAM** (blue) and the **Play** button changes to **Resume** to indicate, that the program is running. The playlist is now processed.
 
-With **Resume** the first video is started and the status changes to **PLAYING** (green). When a video has ended, the status changes to **PROGRAM** (blue) and the next entry in the list can be started with the **Resume** bottom.
+With **Resume** the current selected video in the list is started and the status changes to **PLAYING** (green). When a video has ended, the status changes to **PROGRAM** (blue) and the next entry in the list can be started with the **Resume** bottom.
 
 If the autoplay option is selected for an entry, the playback is automatically resumed with the next video. The autoplay delay in the timeline settings determine, how many seconds of black are shown, before the next video starts.
 
